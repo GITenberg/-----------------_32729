@@ -1,0 +1,31 @@
+_repo: '-----------------_32729'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chatzopoulos, D.
+    aliases:
+    - Χατζόπουλος, Μήτσος
+    - Chatzopoelos, M. (Mitsos)
+    - Chatzopoulos, Demetrios
+    birthdate: 1872
+    deathdate: 1936
+    gutenberg_agent_id: '36007'
+    url: http://www.gutenberg.org/2009/agents/36007
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32729'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+- !lcsh 'Short stories'
+title: Ντόπιες Ζωγραφιές
+url: http://www.gutenberg.org/ebooks/32729
